@@ -1,0 +1,11 @@
+-5 sentiments 0
+-4 sentiments 85
+-3 sentiments 312
+-2 sentiments 856
+-1 sentiments 322
+0 sentiments 0
+1 sentiments 292
+2 sentiments 1274
+3 sentiments 68
+4 sentiments 45
+5 sentiments 0
